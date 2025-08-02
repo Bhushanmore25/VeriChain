@@ -1,0 +1,8 @@
+Flask>=2.0
+numpy
+opencv-python
+Pillow
+easyocr
+face_recognition
+scikit-image
+
